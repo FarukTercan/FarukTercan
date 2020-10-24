@@ -10,6 +10,12 @@
     <img width="64" height="64" src="https://github.com/FarukTercan/FarukTercan/blob/main/assets/react.svg"> 
 </p>
 
+## 🌱 Experimenting in:
+<p>
+    <img width="64" height="64" src="https://github.com/FarukTercan/FarukTercan/blob/main/assets/angular.svg">
+    <img width="64" height="64" src="https://github.com/FarukTercan/FarukTercan/blob/main/assets/ts.svg">    
+</p>
+
 
 ## ⚡ Extra:
 <p>
